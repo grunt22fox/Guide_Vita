@@ -77,7 +77,7 @@ const themeConfig = {
     ],
   },
   footer: {
-		copyright: 'Copyright © 2026 Nintendo Homebrew',
+		copyright: 'Copyright © 2026 emiyl & Nintendo Homebrew',
 		items: [
 			{ text: "Credits", link: `/credits` },
 			{ text: "Privacy Policy", link: `/privacy-policy` },
