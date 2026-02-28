@@ -6,7 +6,7 @@
     "MD024": false,
     "MD026": { "punctuation": ".,;:。，；："},
     "MD029": { "style": "one" },
-    "MD033": { "allowed_elements": ["br", "u", "span", "a", "btn", "btntoggler"], "table_allowed_elements": ["hr", "br", "ul", "li", "u", "span", "btn", "btntoggler"]},
+    "MD033": { "allowed_elements": ["br", "u", "span", "btn", "btntoggler"], "table_allowed_elements": ["hr", "br", "ul", "li", "u", "span", "btn", "btntoggler"]},
     "MD035": { "style": "---" },
     "MD036": false,
     "MD040": false,
